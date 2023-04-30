@@ -16,3 +16,12 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+
+.text-white {
+    color: #fff;
+    padding: 0 15px;
+}
+
+.btn-signOut {
+    margin-left: 20px;
+}
